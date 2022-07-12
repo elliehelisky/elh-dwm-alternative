@@ -56,5 +56,8 @@ For the most part, I am using default DWM hotkeys, with some odd exceptions
 6. Mod + Shift + R quits dwm
 7. Mod + Ctrl + Shift + Q will restart DWM without logging you out. (Good for applying changes after recompiling DWM)
 
+# Image Preview
+![image](https://github.com/elliehelisky/elh-dwm-alternative/blob/main/images/elh-dwm.png?raw=true)
+
 # Tested Distros (including Derivatives)
 1. Gentoo
